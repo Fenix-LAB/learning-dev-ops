@@ -19,3 +19,20 @@ link to the course: [DevOps TOTAL - Docker, Kubernetes, Jenkins, AWS, Git](https
 
 ## Section 4: Virtual Machine, Vergant and Server
 This section is about the virtual machine, vagrant and server but I'm not going to take this section because I prefer to use Docker.
+
+## Git - GitHub
+- [x] 8. Git - GitHub
+- [x] 9. What is Git?
+- [x] 10. Install Git
+- [x] 11. Git Configuration
+- [x] 12. Git Commands
+- [x] 13. GitHub
+- [x] 14. What is a repository?
+- [x] 15. Create a repository
+- [x] 16. Clone a repository
+- [x] 17. Push and Pull
+- [x] 18. Branches
+- [x] 19. Merge
+- [x] 20. Pull Request
+- [x] 21. Conflicts
+- [x] 22. Cheat Sheet

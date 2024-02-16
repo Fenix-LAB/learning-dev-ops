@@ -60,3 +60,11 @@ A port is a communication endpoint identified by a 16-bit number, commonly known
 - 53: DNS
 - 110: POP3
 
+## Comands (Windows)
+- ipconfig: Display the IP address, subnet mask and default gateway for all adapters.
+- ping: Test the ability of the source computer to reach a specified destination computer.
+- tracert: Determine the path taken to a destination by sending Internet Control Message Protocol (ICMP) Echo Request messages to the destination.
+- nslookup: Query the Domain Name System (DNS) to obtain domain name or IP address mapping or for any other specific DNS record.
+- netstat: Display the network connections for the Transmission Control Protocol (both incoming and outgoing), routing tables, and a number of network interface and network protocol statistics.
+- arp: Display and modify the IP-to-Physical address translation tables used by address resolution protocol (ARP).
+- route: Display and modify the IP routing table.
