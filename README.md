@@ -36,3 +36,5 @@ This section is about the virtual machine, vagrant and server but I'm not going 
 - [x] 20. Pull Request
 - [x] 21. Conflicts
 - [x] 22. Cheat Sheet
+- [x] 23. Integration with Jenkins
+- [x] 24. Integration with Jenkins - Part 2
